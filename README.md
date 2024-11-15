@@ -1,18 +1,19 @@
 # Advanced AI Assignment 3:Improving AI Music Generation Models
+## Listen to the audio samples [here](https://tttt1314.github.io/) 
 
 
 KL Divergence Analysis(Best 10)
 ----------------------
 1. This tribal music is played on a didgeridoo. It is played by vibrating the lips over the instrument using breathing techniques. The song has a continuous droning sound and inter spread with low pitch bass sounds. There are no voices in this song. This audio can be used in a movie where the protagonist is trapped in a forest.
-2. Fast techno with a hardstyle edge. Four on the floor kick with the synth bass and hi-hat on the off beats combined with a rhythmic synth gives the music an intense vibe.
-3. This music is a Didgeridoo solo instrumental. The tempo is slow with a steady, vibrating drone like harmony with no accompaniment. The music is an intense, monotone , low pitched,incessant buzz like vibrations. It is unique with a captivating, alluring and hypnotic vibe.
-4. The techno music excerpt features only a beat, no other melodic or harmonic instruments. By the sound of it, the beat was made using sampled drums. Other percussive instruments can be heard in the background. This music would be played in a club.
-5. This music is instrumental. The tempo is fast with a droning melody of didgeridoo. The music is complex, powerful, emphatic and the droning tone makes it trippy, psychedelic, meditative and hypnotic.
-6. The instrumental music features a piano playing a romantic song. A group of strings accompany the pianist with warm harmonies. The overall atmosphere is romantic and touching.
-7. This is an amateur recording of a solo banjo player. The piece is played in the major scale, creating a friendly, calming atmosphere giving it a definitive characteristic of a folk song. It could be used as background music in pastoral content, touristic videos of rural locations.
-8. The low quality recording features a synth wave disco instrumental that consists of punchy "4 on the floor" kick patter, reverberant snare hits, shimmering hi hats, widely spread high pitched synth lead, groovy synth bass and repetitive percussive element. It is noisy, but also energetic and groovy- like something you would hear in a disco club.
-9. This music is a percussion solo. The tempo is fast with the drummer  playing an energetic solo. The beat is vigorous, enthusiastic, spirited, infectious and punchy with a flourish of cymbals.
-10. Someone is playing a melody on an acoustic guitar and someone another melody on a oud. The two melodies complement each other. This song may be playing in a live presentation.
+3. Fast techno with a hardstyle edge. Four on the floor kick with the synth bass and hi-hat on the off beats combined with a rhythmic synth gives the music an intense vibe.
+4. This music is a Didgeridoo solo instrumental. The tempo is slow with a steady, vibrating drone like harmony with no accompaniment. The music is an intense, monotone , low pitched,incessant buzz like vibrations. It is unique with a captivating, alluring and hypnotic vibe.
+5. The techno music excerpt features only a beat, no other melodic or harmonic instruments. By the sound of it, the beat was made using sampled drums. Other percussive instruments can be heard in the background. This music would be played in a club.
+6. This music is instrumental. The tempo is fast with a droning melody of didgeridoo. The music is complex, powerful, emphatic and the droning tone makes it trippy, psychedelic, meditative and hypnotic.
+7. The instrumental music features a piano playing a romantic song. A group of strings accompany the pianist with warm harmonies. The overall atmosphere is romantic and touching.
+8. This is an amateur recording of a solo banjo player. The piece is played in the major scale, creating a friendly, calming atmosphere giving it a definitive characteristic of a folk song. It could be used as background music in pastoral content, touristic videos of rural locations.
+9. The low quality recording features a synth wave disco instrumental that consists of punchy "4 on the floor" kick patter, reverberant snare hits, shimmering hi hats, widely spread high pitched synth lead, groovy synth bass and repetitive percussive element. It is noisy, but also energetic and groovy- like something you would hear in a disco club.
+10. This music is a percussion solo. The tempo is fast with the drummer  playing an energetic solo. The beat is vigorous, enthusiastic, spirited, infectious and punchy with a flourish of cymbals.
+11. Someone is playing a melody on an acoustic guitar and someone another melody on a oud. The two melodies complement each other. This song may be playing in a live presentation.
 
 
 CLAP Analysis(Best 10)
