@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import pdb 
 
 # File paths
 folder = './eval_results'
@@ -75,3 +76,33 @@ with open('analysis.txt', 'a') as f:
     f.write('----------------------\n')
     for i, caption in enumerate(captions_clap):
         f.write(f'{i+1}. {caption}\n')
+
+#iterate over the worst 10 kl's filenames
+worst_filenames_kl = df_kl['filename'].head(10).tolist()
+worst_filenames_clap = df_clap['filename'].head(10).tolist()
+# for loop
+#pdb.set_trace()
+for filename in worst_filenames_kl:
+    # copy audio file to the worst folder
+    os.system(f'cp ./musiccaps_gen_eval/{filename[1:]}.wav ./eval_results/audio_samples/worst_kl/generate/')
+for filename in best_filenames_kl:
+    # copy audio file to the best folder
+    os.system(f'cp ./musiccaps_gen_eval/{filename[1:]}.wav ./eval_results/audio_samples/best_kl/generate/')
+for filename in worst_filenames_kl:
+    # copy audio file to the worst folder
+    os.system(f'cp ./musiccaps_eval_strim/{filename} ./eval_results/audio_samples/worst_kl/reference/')
+for filename in best_filenames_kl:
+    # copy audio file to the best folder
+    os.system(f'cp ./musiccaps_eval_strim/{filename} ./eval_results/audio_samples/best_kl/reference/')
+
+for filename in worst_filenames_clap:
+    # copy audio file to the worst folder
+    filename = filename.split('.')[:-1]
+    filename = '.'.join(filename)
+    # pdb.set_trace()
+    os.system(f'cp ./generated_audio/{filename}.wav ./eval_results/audio_samples/worst_clap/')
+for filename in best_filenames_clap:
+    # copy audio file to the best folder
+    filename = filename.split('.')[:-1]
+    filename = '.'.join(filename)
+    os.system(f'cp ./generated_audio/{filename}.wav ./eval_results/audio_samples/best_clap/')
