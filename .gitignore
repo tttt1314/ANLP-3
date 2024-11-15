@@ -1,2 +1,6 @@
 /music_data
 /music_data.zip
+/generated_audio*
+/__MACOSX
+/music_data*
+/musiccaps*
