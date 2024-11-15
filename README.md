@@ -1,6 +1,6 @@
-#Advanced AI Assignment 3:Improving AI Music Generation Models
+# Advanced AI Assignment 3:Improving AI Music Generation Models
 
-Results:
+## Results:
 
 
 KL Divergence Analysis(Best 10)
