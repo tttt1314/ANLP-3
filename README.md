@@ -3,7 +3,7 @@
 
 KL Divergence Analysis(Best 10)
 ----------------------
-1. This tribal music is played on a didgeridoo. It is played by vibrating the lips over the instrument using breathing techniques. The song has a continuous droning sound and inter spread with low pitch bass sounds. There are no voices in this song. This audio can be used in a movie where the protagonist is trapped in a forest.[gen](eval_results/audio_samples/best_kl/generate/dIvqn14xgI.wav.wav)[ref](eval_results/audio_samples/best_kl/reference/cdIvqn14xgI.wav)
+1. This tribal music is played on a didgeridoo. It is played by vibrating the lips over the instrument using breathing techniques. The song has a continuous droning sound and inter spread with low pitch bass sounds. There are no voices in this song. This audio can be used in a movie where the protagonist is trapped in a forest.[gen](eval_results/audio_samples/best_kl/generate/dIvqn14xgI.wav.wav)  [ref](eval_results/audio_samples/best_kl/reference/cdIvqn14xgI.wav)
 3. Fast techno with a hardstyle edge. Four on the floor kick with the synth bass and hi-hat on the off beats combined with a rhythmic synth gives the music an intense vibe.
 4. This music is a Didgeridoo solo instrumental. The tempo is slow with a steady, vibrating drone like harmony with no accompaniment. The music is an intense, monotone , low pitched,incessant buzz like vibrations. It is unique with a captivating, alluring and hypnotic vibe.
 5. The techno music excerpt features only a beat, no other melodic or harmonic instruments. By the sound of it, the beat was made using sampled drums. Other percussive instruments can be heard in the background. This music would be played in a club.
